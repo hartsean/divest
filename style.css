@@ -12,26 +12,32 @@ a {
 .home-mission {
 	padding-top: 40px;
 }
+#get-started h2{
+	font-size: 7em;
+}
+#get-started a:hover{
+	color: green;
+	text-decoration: none;
+}
 .large-text h1{ 
 	padding-top: 10px;
 	font-size: 7em;
 }
-.yes-selection,
-.no-selection {
+#yes-selection a:hover {
+	color: green;
+	text-decoration: none;
+}
+#no-selection a:hover {
+	color: red;
+	text-decoration: none;
+}
+#yes-selection,
+#no-selection {
+	padding: 40px;
+	font-size: 3em;
 	margin-top: 20px;
 }
-.yes-selection {
-	padding: 40px;
-	font-size: 3em;
-	text-transform: uppercase;
-}
-.no-selection {
-	padding: 40px;
-	font-size: 3em;
-	text-transform: uppercase;
-}
-.bank-list {
-}
+
 .reasons-list {
 
 }
