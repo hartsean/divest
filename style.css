@@ -1,19 +1,20 @@
 body {
 	background-color: #000;
 	color: #FFF;
+	font-family: 'Roboto Slab', serif;
+}
+a {
+	color: #FFF;
 }
 .divest-site {
 	padding: 2em;
 }
 .home-mission {
-	padding-top: 100px;
-	text-align: center;
+	padding-top: 40px;
 }
 .large-text h1{ 
-	padding-top: 40px;
-	text-align: center;
+	padding-top: 10px;
 	font-size: 7em;
-	text-transform: uppercase;
 }
 .yes-selection,
 .no-selection {
@@ -21,15 +22,19 @@ body {
 }
 .yes-selection {
 	padding: 40px;
-	text-align: center;
 	font-size: 3em;
 	text-transform: uppercase;
-	border: 1px solid #FFF;
 }
 .no-selection {
 	padding: 40px;
-	text-align: center;
 	font-size: 3em;
 	text-transform: uppercase;
-	border: 1px solid #FFF;
+}
+.bank-list {
+}
+.reasons-list {
+
+}
+.reasons-graphic {
+
 }
