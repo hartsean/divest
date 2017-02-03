@@ -37,7 +37,29 @@ a {
 	font-size: 3em;
 	margin-top: 20px;
 }
-
+#yes-selection {
+	margin: 2% 0% 0% 48%;
+}
+#no-selection {
+	margin: 2% 48% 0% 0%;
+}
+select {
+	font-size: 2em;
+	padding: .2em .5em .2em .5em;
+	background-color: #000;
+	color: #FFF;
+	   -webkit-appearance: none;
+	   -moz-appearance: none;
+	   appearance: none;
+}
+.bank-list {
+	margin-top: 2em;
+}
+#bank-selection {
+	margin-top:1em;
+	font-size: 2em;
+	padding: .2em .5em .2em .5em;
+}
 .reasons-list {
 
 }
