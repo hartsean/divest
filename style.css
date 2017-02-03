@@ -1,9 +1,35 @@
 body {
 	background-color: #000;
-}
-.large-text {
 	color: #FFF;
-	text-align:center;
+}
+.divest-site {
+	padding: 2em;
+}
+.home-mission {
+	padding-top: 100px;
+	text-align: center;
+}
+.large-text h1{ 
+	padding-top: 40px;
+	text-align: center;
+	font-size: 7em;
+	text-transform: uppercase;
+}
+.yes-selection,
+.no-selection {
+	margin-top: 20px;
+}
+.yes-selection {
+	padding: 40px;
+	text-align: center;
 	font-size: 3em;
 	text-transform: uppercase;
+	border: 1px solid #FFF;
+}
+.no-selection {
+	padding: 40px;
+	text-align: center;
+	font-size: 3em;
+	text-transform: uppercase;
+	border: 1px solid #FFF;
 }
