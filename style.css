@@ -20,7 +20,7 @@ a{
 	font-size: .8em;
 }
 #get-started h2 {
-	font-size: 7em;
+	font-size: 5em;
 }
 #get-started a:hover {
 	color: #77AF9C;
@@ -28,7 +28,7 @@ a{
 }
 .large-text h1{ 
 	padding-top: 10px;
-	font-size: 7em;
+	font-size: 5em;
 }
 #yes-selection a:hover {
 	color: #2FBF71; /* green */
