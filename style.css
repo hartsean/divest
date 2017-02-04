@@ -3,7 +3,7 @@ body {
 	color: #FFF;
 	font-family: 'Roboto Slab', serif;
 }
-a {
+a{
 	color: #FFF;
 }
 .divest-site {
@@ -12,11 +12,18 @@ a {
 .home-mission {
 	padding-top: 40px;
 }
-#get-started h2{
+.home-bottom-text {
+	padding-top: 1.5em;
+	margin: 0 auto;
+	line-height: 2em;
+	width: 75%;
+	font-size: .8em;
+}
+#get-started h2 {
 	font-size: 7em;
 }
-#get-started a:hover{
-	color: green;
+#get-started a:hover {
+	color: #77AF9C;
 	text-decoration: none;
 }
 .large-text h1{ 
@@ -24,13 +31,13 @@ a {
 	font-size: 7em;
 }
 #yes-selection a:hover {
-	color: green;
+	color: #2FBF71; /* green */
 	text-decoration: none;
 }
 #no-selection a:hover {
-	color: red;
+	color: #EF2D56; /* redd */
 	text-decoration: none;
-}
+} 
 #yes-selection,
 #no-selection {
 	padding: 40px;
