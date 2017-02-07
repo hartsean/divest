@@ -82,3 +82,8 @@ select {
 .reasons-graphic {
 
 }
+
+.alt-list {
+	margin-top: 300px;
+	border: 1px solid red;
+}
